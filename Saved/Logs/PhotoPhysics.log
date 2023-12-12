@@ -1318,3 +1318,496 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2023.12.12-16.07.16:946][816]SourceControl:  5 files changed, 1 insertion(+), 1 deletion(-)
 [2023.12.12-16.07.16:946][816]SourceControl:  create mode 100644 Content/CreatedAssets/BP_FirstPersonMap.uasset
 [2023.12.12-16.07.16:955][816]SourceControl: Commited [master b7214ae] Photo Mechanic works!!.
+[2023.12.12-16.08.30:271][ 63]LogDerivedDataCache: C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2569 files in 3760 folders with total size 261 MiB.
+[2023.12.12-16.21.12:411][391]AssetReimport: New page: Outstanding source content changes 12:21:12 AM
+[2023.12.12-16.21.12:417][391]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.12-16.21.12:436][392]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx)
+[2023.12.12-16.21.12:441][392]LogFbx: Loading FBX Scene from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx
+[2023.12.12-16.21.12:445][392]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.12-16.21.17:914][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.44:977][392]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.12-16.21.45:021][392]LogFbx: Triangulating skeletal mesh Torus
+[2023.12.12-16.21.45:032][392]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.21.45:047][392]LogSkeletalMesh: Section 0: Material=0, 1152 triangles
+[2023.12.12-16.21.45:049][392]LogSkeletalMesh: Building Skeletal Mesh key_Torus...
+[2023.12.12-16.21.45:065][392]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CreatedAssets/key.key_Torus
+[2023.12.12-16.21.45:070][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:070][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:075][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:075][392]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:075][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:079][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:079][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:083][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:083][392]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:083][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:099][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.12.12-16.21.45:120][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.12-16.21.45:130][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.12-16.21.45:139][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.12.12-16.21.45:143][392]LogFbx: Triangulating skeletal mesh Cylinder
+[2023.12.12-16.21.45:144][392]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.21.45:146][392]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2023.12.12-16.21.45:147][392]LogSkeletalMesh: Building Skeletal Mesh key_Cylinder...
+[2023.12.12-16.21.45:149][392]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/CreatedAssets/key.key_Cylinder
+[2023.12.12-16.21.45:150][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:150][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:156][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:156][392]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:156][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:157][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:158][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:162][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:162][392]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:162][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:174][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.12-16.21.45:188][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.12.12-16.21.45:196][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.12-16.21.45:204][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.12.12-16.21.45:359][392]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.12.12-16.21.45:360][392]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.21.45:362][392]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2023.12.12-16.21.45:362][392]LogSkeletalMesh: Building Skeletal Mesh key_Cylinder_002...
+[2023.12.12-16.21.45:364][392]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/CreatedAssets/key.key_Cylinder_002
+[2023.12.12-16.21.45:365][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:365][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:370][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:370][392]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:370][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:372][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:372][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:378][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:378][392]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:378][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:389][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.12-16.21.45:404][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.12.12-16.21.45:413][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.12-16.21.45:422][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.12-16.21.45:424][392]LogFbx: Triangulating skeletal mesh Cylinder.001
+[2023.12.12-16.21.45:425][392]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.21.45:426][392]LogSkeletalMesh: Section 0: Material=0, 124 triangles
+[2023.12.12-16.21.45:427][392]LogSkeletalMesh: Building Skeletal Mesh key_Cylinder_001...
+[2023.12.12-16.21.45:429][392]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/CreatedAssets/key.key_Cylinder_001
+[2023.12.12-16.21.45:430][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:430][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:434][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:434][392]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:434][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:436][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:436][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.21.45:441][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.21.45:441][392]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.21.45:441][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.21.45:453][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.12-16.21.45:467][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.12-16.21.45:477][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.12.12-16.21.45:486][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.12.12-16.21.45:611][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-16.21.45:647][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:695][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:708][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:721][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.45:734][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CreatedAssets/key" FILE="../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.uasset" SILENT=true
+[2023.12.12-16.21.45:740][393]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005719 seconds
+[2023.12.12-16.21.45:747][393]LogSavePackage: Moving output files for package: /Game/CreatedAssets/key
+[2023.12.12-16.21.45:747][393]LogSavePackage: Moving '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/keyD74EEAE24C4C412C90FCCD90E6F6B5EE.tmp' to '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.uasset'
+[2023.12.12-16.21.45:861][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms
+[2023.12.12-16.21.45:883][394]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-16.21.45:883][394]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Torus
+[2023.12.12-16.21.45:883][394]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Cylinder
+[2023.12.12-16.21.45:883][394]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_002
+[2023.12.12-16.21.45:883][394]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001
+[2023.12.12-16.21.45:897][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.46:099][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.46:132][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.46:168][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.21.48:862][495]AssetReimport: Importing new asset /Game/CreatedAssets/key.
+[2023.12.12-16.21.50:719][555]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-16.21.50:757][555]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-16.21.51:923][621]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.12.12-16.21.51:949][621]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.12.12-16.21.58:014][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.12-16.22.01:594][986]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.12-16.22.01:618][986]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CreatedAssets/key_Torus_Skeleton.key_Torus_Skeleton
+	Asset Type: Skeleton
+[2023.12.12-16.22.01:787][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.12-16.22.01:797][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.12-16.22.01:806][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.12.12-16.22.05:527][245]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/CreatedAssets/key_Cylinder_Skeleton.key_Cylinder_Skeleton
+[2023.12.12-16.22.05:534][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.22.05:534][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.22.05:562][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.12-16.22.05:735][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.22.05:735][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.22.05:810][245]LogViewport: Scene viewport resized to 1067x906, mode Windowed.
+[2023.12.12-16.22.08:872][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.12-16.22.10:326][419]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.12-16.22.10:407][419]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.22.10:407][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.22.10:412][419]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.22.10:412][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.22.10:424][419]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CreatedAssets/key_Cylinder_Skeleton.key_Cylinder_Skeleton
+	Asset Type: Skeleton
+[2023.12.12-16.22.10:570][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.12.12-16.22.10:580][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.12-16.22.10:590][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.12-16.22.13:946][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.12-16.22.15:725][694]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.12-16.22.15:748][694]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CreatedAssets/key_Cylinder_002_Skeleton.key_Cylinder_002_Skeleton
+	Asset Type: Skeleton
+[2023.12.12-16.22.15:892][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.12-16.22.15:902][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.12-16.22.15:911][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.12.12-16.22.23:206][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.12.12-16.22.24:335][279]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.12-16.22.24:357][279]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CreatedAssets/key_Cylinder_001_Skeleton.key_Cylinder_001_Skeleton
+	Asset Type: Skeleton
+[2023.12.12-16.22.24:503][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.12-16.22.24:516][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.12-16.22.24:526][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.12.12-16.22.50:914][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.12-16.22.50:915][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2023.12.12-16.22.50:915][476]OBJ SavePackage: Generating thumbnails for [4] asset(s) in package [/Game/CreatedAssets/key] ([4] browsable assets)...
+[2023.12.12-16.22.50:915][476]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Torus has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.22.50:954][476]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/CreatedAssets/key.key_Torus]
+[2023.12.12-16.22.50:954][476]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.22.50:959][476]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/CreatedAssets/key.key_Cylinder]
+[2023.12.12-16.22.50:959][476]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_002 has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.22.50:969][476]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_002]
+[2023.12.12-16.22.50:969][476]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001 has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.22.50:982][476]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001]
+[2023.12.12-16.22.50:982][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/CreatedAssets/key]
+[2023.12.12-16.22.50:986][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CreatedAssets/key_Auto1
+[2023.12.12-16.22.50:986][476]LogSavePackage: Moving '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/key_Auto1B151784E4DFDF173DF5F02B037C261A7.tmp' to '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/Autosaves/Game/CreatedAssets/key_Auto1.uasset'
+[2023.12.12-16.22.50:986][476]LogFileHelpers: Auto-saving content packages took 0.072
+[2023.12.12-16.22.53:403][546]AssetReimport: New page: Outstanding source content changes 12:22:53 AM
+[2023.12.12-16.22.53:423][547]LogEditorFactories: Performing atomic reimport of [C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx]
+[2023.12.12-16.22.53:446][547]LogFbx: Loading FBX Scene from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx
+[2023.12.12-16.22.53:449][547]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.12-16.22.53:450][547]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.12.12-16.22.53:465][547]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.22.53:484][547]LogSkeletalMesh: Section 0: Material=0, 1524 triangles
+[2023.12.12-16.22.53:487][547]LogEditorFactories: -- imported successfully
+[2023.12.12-16.22.53:487][547]LogSkeletalMesh: Building Skeletal Mesh key_Torus...
+[2023.12.12-16.22.53:508][547]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CreatedAssets/key.key_Torus
+[2023.12.12-16.22.53:510][547]LogEditorFactories: Performing atomic reimport of [C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx]
+[2023.12.12-16.22.53:511][547]LogDerivedDataCache: C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySKELETALMESH/63/6f/a2343933ff63da9e97f295466aab3ca53796.udd from '/Game/CreatedAssets/key.key_Torus'.
+[2023.12.12-16.22.53:514][547]LogFbx: Loading FBX Scene from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx
+[2023.12.12-16.22.53:517][547]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.12-16.22.53:517][547]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.12.12-16.22.53:532][547]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.22.53:551][547]LogSkeletalMesh: Section 0: Material=0, 1524 triangles
+[2023.12.12-16.22.53:554][547]LogEditorFactories: -- imported successfully
+[2023.12.12-16.22.53:554][547]LogSkeletalMesh: Building Skeletal Mesh key_Cylinder...
+[2023.12.12-16.22.53:573][547]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CreatedAssets/key.key_Cylinder
+[2023.12.12-16.22.53:575][547]LogEditorFactories: Performing atomic reimport of [C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx]
+[2023.12.12-16.22.53:575][547]LogDerivedDataCache: C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySKELETALMESH/cb/de/9f58da102b90d7233c9cab365e2279f601fb.udd from '/Game/CreatedAssets/key.key_Cylinder'.
+[2023.12.12-16.22.53:579][547]LogFbx: Loading FBX Scene from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx
+[2023.12.12-16.22.53:582][547]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.12-16.22.53:583][547]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.12.12-16.22.53:596][547]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.22.53:616][547]LogSkeletalMesh: Section 0: Material=0, 1524 triangles
+[2023.12.12-16.22.53:618][547]LogEditorFactories: -- imported successfully
+[2023.12.12-16.22.53:619][547]LogSkeletalMesh: Building Skeletal Mesh key_Cylinder_002...
+[2023.12.12-16.22.53:639][547]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CreatedAssets/key.key_Cylinder_002
+[2023.12.12-16.22.53:640][547]LogEditorFactories: Performing atomic reimport of [C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx]
+[2023.12.12-16.22.53:641][547]LogDerivedDataCache: C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySKELETALMESH/66/f3/3fa9fc772148fd3cd13ea015d3f5ec220763.udd from '/Game/CreatedAssets/key.key_Cylinder_002'.
+[2023.12.12-16.22.53:644][547]LogFbx: Loading FBX Scene from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx
+[2023.12.12-16.22.53:648][547]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.12-16.22.53:648][547]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.12.12-16.22.53:662][547]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.22.53:682][547]LogSkeletalMesh: Section 0: Material=0, 1524 triangles
+[2023.12.12-16.22.53:684][547]LogEditorFactories: -- imported successfully
+[2023.12.12-16.22.53:684][547]LogSkeletalMesh: Building Skeletal Mesh key_Cylinder_001...
+[2023.12.12-16.22.53:705][547]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CreatedAssets/key.key_Cylinder_001
+[2023.12.12-16.22.53:707][547]LogDerivedDataCache: C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/jvere/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySKELETALMESH/96/3e/4e67e6aa3b5f79c3b955fc81f796e5caf329.udd from '/Game/CreatedAssets/key.key_Cylinder_001'.
+[2023.12.12-16.22.56:740][657]AssetReimport: Reimported asset key_Torus from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx.
+[2023.12.12-16.22.56:740][657]AssetReimport: Reimported asset key_Cylinder from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx.
+[2023.12.12-16.22.56:740][657]AssetReimport: Reimported asset key_Cylinder_002 from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx.
+[2023.12.12-16.22.56:740][657]AssetReimport: Reimported asset key_Cylinder_001 from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.fbx.
+[2023.12.12-16.22.58:676][741]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/CreatedAssets/key_Cylinder_001_Skeleton.key_Cylinder_001_Skeleton
+[2023.12.12-16.22.58:676][741]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/CreatedAssets/key_Cylinder_001_Skeleton.key_Cylinder_001_Skeleton
+[2023.12.12-16.22.58:678][741]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.12.12-16.22.58:678][741]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.12.12-16.22.59:200][783]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/CreatedAssets/key_Cylinder_001_Skeleton.key_Cylinder_001_Skeleton
+[2023.12.12-16.22.59:200][783]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/CreatedAssets/key_Cylinder_001_Skeleton.key_Cylinder_001_Skeleton
+[2023.12.12-16.22.59:203][783]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_0250756A57970CC501_1076195303
+[2023.12.12-16.22.59:203][783]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_0250756A57970CC501_1076195303
+[2023.12.12-16.23.20:367][464]Cmd: DELETE
+[2023.12.12-16.23.20:367][464]Cmd: ACTOR DELETE
+[2023.12.12-16.23.20:369][464]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.12.12-16.23.20:383][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.12-16.23.20:385][464]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.12.12-16.23.26:741][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.12.12-16.23.28:053][907]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.12-16.23.28:082][907]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/CreatedAssets/key_Cylinder_001_Skeleton.key_Cylinder_001_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/CreatedAssets/key_Cylinder_002_Skeleton.key_Cylinder_002_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/CreatedAssets/key_Cylinder_Skeleton.key_Cylinder_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/CreatedAssets/key_Torus_Skeleton.key_Torus_Skeleton
+	Asset Type: Skeleton
+[2023.12.12-16.23.28:276][907]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_0250756A57970CC501_1076195303 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/1X/EDJBR2Y1760L0220P41BQL.PackageMetaData in its package
+[2023.12.12-16.23.28:277][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.12-16.23.28:287][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.12-16.23.28:297][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.12.12-16.23.28:308][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.12.12-16.23.45:585][196]AssetReimport: New page: Outstanding source content changes 12:23:45 AM
+[2023.12.12-16.23.45:608][197]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key1.fbx)
+[2023.12.12-16.23.45:611][197]LogFbx: Loading FBX Scene from C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key1.fbx
+[2023.12.12-16.23.45:615][197]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.12-16.23.51:571][197]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.12-16.23.51:610][197]LogFbx: Triangulating skeletal mesh Cylinder.002
+[2023.12.12-16.23.51:625][197]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2023.12.12-16.23.51:645][197]LogSkeletalMesh: Section 0: Material=0, 1524 triangles
+[2023.12.12-16.23.51:647][197]LogSkeletalMesh: Building Skeletal Mesh key1...
+[2023.12.12-16.23.51:668][197]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/CreatedAssets/key1.key1
+[2023.12.12-16.23.55:725][197]LogSlate: Window 'Message' being destroyed
+[2023.12.12-16.24.01:914][197]LogSlate: Window 'Message' being destroyed
+[2023.12.12-16.24.03:269][197]LogSlate: Window 'Message' being destroyed
+[2023.12.12-16.24.03:292][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.24.03:292][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.24.03:296][197]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.24.03:326][197]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.24.03:327][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.24.03:329][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.24.03:329][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.24.03:333][197]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.12.12-16.24.03:333][197]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.24.03:333][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.24.03:350][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.12-16.24.03:365][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.12-16.24.03:375][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.12-16.24.03:384][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.12-16.24.03:435][198]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.24.03:572][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-16.24.03:649][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CreatedAssets/key1" FILE="../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key1.uasset" SILENT=true
+[2023.12.12-16.24.03:654][198]LogSavePackage: Moving output files for package: /Game/CreatedAssets/key1
+[2023.12.12-16.24.03:654][198]LogSavePackage: Moving '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/key160307A4643EDEDF1B1621CACE0C1D874.tmp' to '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key1.uasset'
+[2023.12.12-16.24.03:823][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 500 ms)
+[2023.12.12-16.24.03:840][199]AssetCheck: New page: Asset Save: key1
+[2023.12.12-16.24.03:840][199]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key1.key1
+[2023.12.12-16.24.05:969][271]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-16.24.06:008][271]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-16.24.06:847][305]AssetReimport: Importing new asset /Game/CreatedAssets/key1.
+[2023.12.12-16.24.11:092][477]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/CreatedAssets/key1.key1
+[2023.12.12-16.24.11:092][477]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/CreatedAssets/key1.key1
+[2023.12.12-16.24.11:092][477]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key1.key1 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2023.12.12-16.24.11:092][477]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key1.key1 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2023.12.12-16.24.11:430][505]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/CreatedAssets/key1.key1
+[2023.12.12-16.24.11:430][505]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/CreatedAssets/key1.key1
+[2023.12.12-16.24.11:432][505]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key1.key1 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_0250756A57970CC501_1148424304
+[2023.12.12-16.24.11:432][505]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/CreatedAssets/key1.key1 as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_0250756A57970CC501_1148424304
+[2023.12.12-16.24.19:476][189]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.12-16.24.19:480][189]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.12-16.24.19:480][189]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.12.12-16.24.19:481][189]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 3 ms)
+[2023.12.12-16.24.19:481][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.12-16.24.19:482][189]PIE: New page: PIE session: FirstPersonMap (Dec 12, 2023, 12:24:19 AM)
+[2023.12.12-16.24.19:482][189]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2023.12.12-16.24.19:484][189]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.12.12-16.24.19:506][190]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.12.12-16.24.19:509][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003339s)
+[2023.12.12-16.24.19:509][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003372s)
+[2023.12.12-16.24.19:521][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.12-16.24.19:522][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-16.24.19:522][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-16.24.19:523][190]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.12.12-16.24.19:523][190]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.12-16.24.19:523][190]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.12-16.24.19:523][190]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.12-16.24.19:523][190]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.12-16.24.19:524][190]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.12.12-16.24.19:524][190]LogWorldPartition: Display: WorldPartition initialize took 841 us (total: 89 ms)
+[2023.12.12-16.24.19:524][190]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2023.12.12-16.24.19:524][190]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-16.24.19:524][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.12-16.24.19:524][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-16.24.19:524][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-16.24.19:524][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-16.24.19:524][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-16.24.19:526][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-16.24.19:542][190]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2023.12.12-16.24.19:542][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-16.24.19:542][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-16.24.19:542][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-16.24.19:543][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.12.12-16.24.19:543][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.12.12-16.24.19:544][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.12.12-16.24.19:544][190]LogInit: FAudioDevice initialized with ID 3.
+[2023.12.12-16.24.19:544][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.12.12-16.24.19:544][190]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2023.12.12-16.24.19:544][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.12-16.24.19:546][190]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-16.24.19:547][190]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.12.12-08.24.19
+[2023.12.12-16.24.19:547][190]LogWorld: Bringing up level for play took: 0.001317
+[2023.12.12-16.24.19:549][190]PIE: Server logged in
+[2023.12.12-16.24.19:550][190]PIE: Play in editor total start time 0.07 seconds.
+[2023.12.12-16.24.23:617][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-16.24.23:617][532]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.12.12-16.24.23:617][532]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-16.24.23:617][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.24.23:618][532]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.12.12-16.24.23:621][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-16.24.23:624][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-16.24.23:635][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-16.24.23:635][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.12.12-16.24.23:635][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.12-16.24.23:636][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.12-16.24.23:639][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-16.24.23:641][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.12-16.24.23:719][533]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Content: 'C:/UE_5.3/Engine/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.28:419][864]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.30:458][864]LogSlate: Window 'Save Content' being destroyed
+[2023.12.12-16.24.30:545][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-16.24.30:567][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Torus has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.24.30:624][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.24.30:629][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_002 has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.24.30:633][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001 has no skeleton. This needs to fixed before an animation can be set
+[2023.12.12-16.24.30:638][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CreatedAssets/key" FILE="../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.uasset" SILENT=true
+[2023.12.12-16.24.30:653][864]LogSavePackage: Moving output files for package: /Game/CreatedAssets/key
+[2023.12.12-16.24.30:653][864]LogSavePackage: Moving '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/key416B4BD64D38C43F7E11A9849C61E2A2.tmp' to '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/key.uasset'
+[2023.12.12-16.24.30:658][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 614 ms)
+[2023.12.12-16.24.37:670][864]LogSlate: Window 'Submit Files' being destroyed
+[2023.12.12-16.24.37:852][864]LogSourceControl: commit successful: [master cb77142] added a key model
+[2023.12.12-16.24.37:890][864]SourceControl: [master cb77142] added a key model
+[2023.12.12-16.24.37:890][864]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.12.12-16.24.37:890][864]SourceControl:  create mode 100644 Content/CreatedAssets/key.uasset
+[2023.12.12-16.24.37:890][864]SourceControl:  create mode 100644 Content/CreatedAssets/key1.uasset
+[2023.12.12-16.24.37:898][864]SourceControl: Commited [master cb77142] added a key model.
+[2023.12.12-16.24.37:934][865]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-16.24.37:934][865]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Torus
+[2023.12.12-16.24.37:934][865]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Cylinder
+[2023.12.12-16.24.37:934][865]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_002
+[2023.12.12-16.24.37:934][865]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/CreatedAssets/key.key_Cylinder_001
+[2023.12.12-16.24.37:934][865]AssetCheck: Error: [AssetLog] C:\Users\jvere\Documents\Unreal Projects\PhotoPhysics\Content\CreatedAssets\key.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2023.12.12-16.24.37:934][865]AssetCheck: /Game/CreatedAssets/key contains invalid data.
+[2023.12.12-16.24.37:934][865]AssetCheck: Error: [AssetLog] C:\Users\jvere\Documents\Unreal Projects\PhotoPhysics\Content\CreatedAssets\key.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2023.12.12-16.24.37:934][865]AssetCheck: /Game/CreatedAssets/key contains invalid data.
+[2023.12.12-16.24.37:934][865]AssetCheck: Error: [AssetLog] C:\Users\jvere\Documents\Unreal Projects\PhotoPhysics\Content\CreatedAssets\key.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2023.12.12-16.24.37:934][865]AssetCheck: /Game/CreatedAssets/key contains invalid data.
+[2023.12.12-16.24.37:934][865]AssetCheck: Error: [AssetLog] C:\Users\jvere\Documents\Unreal Projects\PhotoPhysics\Content\CreatedAssets\key.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2023.12.12-16.24.37:934][865]AssetCheck: /Game/CreatedAssets/key contains invalid data.
+[2023.12.12-16.24.37:934][865]AssetCheck: Data validation FAILED.
+[2023.12.12-16.24.37:934][865]AssetCheck: Files Checked: 4, Passed: 0, Failed: 4, Skipped: 0, Unable to validate: 0
+[2023.12.12-16.24.47:227][179]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-16.24.47:266][179]LogSlate: Window 'Message Log' being destroyed
+[2023.12.12-16.24.49:301][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.12-16.24.52:822][265]LogSlate: Window 'Save Content' being destroyed
+[2023.12.12-16.24.52:952][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-16.24.53:036][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CreatedAssets/Camera2_Skeleton" FILE="../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/Camera2_Skeleton.uasset" SILENT=true
+[2023.12.12-16.24.53:037][265]LogSavePackage: Moving output files for package: /Game/CreatedAssets/Camera2_Skeleton
+[2023.12.12-16.24.53:037][265]LogSavePackage: Moving '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/Camera2_Skeleton286915F64B30386657996A9ABECE9665.tmp' to '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/CreatedAssets/Camera2_Skeleton.uasset'
+[2023.12.12-16.24.53:039][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/GM/474OI47KGWAH2D2FDYAS2F
+[2023.12.12-16.24.53:039][265]LogSavePackage: Moving '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Saved/474OI47KGWAH2D2FDYAS2FDBCE6E434777EA9D34B221B1C3D326ED.tmp' to '../../../../Users/jvere/Documents/Unreal Projects/PhotoPhysics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/GM/474OI47KGWAH2D2FDYAS2F.uasset'
+[2023.12.12-16.24.53:157][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 819 ms)
+[2023.12.12-16.24.53:158][265]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-16.24.53:158][265]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/CreatedAssets/Camera2_Skeleton.Camera2_Skeleton
+[2023.12.12-16.24.53:159][265]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_0250756A57970CC501_1148424304
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Content: 'C:/UE_5.3/Engine/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.24.58:366][602]SourceControl: fatal: C:/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/jvere/Documents/Unreal Projects/PhotoPhysics'
+[2023.12.12-16.25.05:578][602]LogSlate: Window 'Submit Files' being destroyed
+[2023.12.12-16.25.05:805][602]LogSourceControl: commit successful: [master 2c61b40] added a key model
+[2023.12.12-16.25.05:876][602]SourceControl: [master 2c61b40] added a key model
+[2023.12.12-16.25.05:876][602]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.12.12-16.25.05:876][602]SourceControl:  create mode 100644 Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/GM/474OI47KGWAH2D2FDYAS2F.uasset
+[2023.12.12-16.25.05:887][602]SourceControl: Commited [master 2c61b40] added a key model.
